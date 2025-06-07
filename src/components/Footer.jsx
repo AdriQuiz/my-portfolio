@@ -6,7 +6,7 @@ function Footer() {
             <div className="max-w-6xl mx-auto grid md:grid-cols-1 gap-8 text-center md:text-left">
                 <div className='text-center'>
                     <h3 className="text-2xl font-bold">Adriana Quiroz</h3>
-                    <p className="text-blue-200 mt-2">Full-Stack Developer</p>
+                    <p className="text-blue-200 mt-2">Front-End Developer</p>
                 </div>
 
             </div>

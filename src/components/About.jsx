@@ -10,9 +10,9 @@ function About() {
             </div>
             <div className='mx-10'>
                 <h2 className='text-4xl font-bold text-color-6 mt-10 lg:my-4'>Sobre mí</h2>
-                <h3 className='font-bold lg:my-4 my-5 text-blue-400 text-xl'>Full-Stack Developer</h3>
+                <h3 className='font-bold lg:my-4 my-5 text-blue-400 text-xl'>Front-End Developer</h3>
                 <p className='text-blue-950 mb-5 text-justify'>
-                    Soy una Desarrolladora Full-Stack en formación con enfoque en Front-End orientada al detalle con una base sólida en desarrollo de software y desarrollo
+                    Soy una Desarrolladora Front-End orientada al detalle con una base sólida en desarrollo de software y desarrollo
                     web.
                 </p>
                 <p className='text-blue-950 mb-10 text-justify'>Con habilidades en Laravel, React, NodeJS, Git, entre otras tecnologías y con experiencia sólida
