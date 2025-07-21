@@ -13,7 +13,7 @@ function About() {
                 <h3 className='font-bold lg:my-4 my-5 text-blue-400 text-xl'>Software Developer</h3>
                 <p className='text-blue-950 mb-5 text-justify'>
                     Soy una Desarrolladora de Software orientada al detalle con una base sólida en desarrollo de software y desarrollo
-                    web.
+                    web, contando con una inclinación hacia el lado de Front-End.
                 </p>
                 <p className='text-blue-950 mb-10 text-justify'>Con habilidades en Laravel, React, NodeJS, Git, entre otras tecnologías y con experiencia sólida
                     en maquetación de interfaces de usuario a partir de diseños con precisión.</p>
